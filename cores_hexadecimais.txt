@@ -1,0 +1,39 @@
+Dicionário "comum" 
+    - abcdef... ABCDEF... através do nome da cor
+    black
+    red
+    green
+    blue
+
+Dicionário hexadecimal 
+    -0123456789 + ABCDEF(as letras sempre devem vir MAIÚSCULAS)
+    Baseado no espectro que os humanos assimiliam
+        RGB = RED, GREEN, BLUE.
+
+    #__ __ __ ( tralha + 6 campos, 2 p o vermelho, 2 p o verde e 2 p o azul)
+
+        Aonde:
+        0 = ausência de cor
+
+        f = máximo cor
+
+        EX. de como podemos informar as cores:
+
+        preto = #000000
+        branco = #FFFFFF
+        vermelho = #FF0000
+        verde = #00FF00
+        azul = #0000FF
+
+e o Dicionário RGB
+
+    0,1,2,3,...255
+
+        0= ausência
+        255 = máximo
+
+        preto = rgb(0, 0, 0)
+        branco = rgb(255, 255, 255)
+        vermelho = rgb(255, 0, 0)
+
+
